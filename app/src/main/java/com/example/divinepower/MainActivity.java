@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
 //        setContentView(新视图);
         setContentView(R.layout.activity_main);
         //===========
+        //测试
     }
 }
